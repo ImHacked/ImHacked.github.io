@@ -1,7 +1,7 @@
 {
   "private": true,
   "name": "personalPortfolio",
-  "homepage": "http://ImHacked.github.io",
+  "homepage": "http://ImHacked.github.io/home",
   "version": "1.0.0",
   "scripts": {
     "build": "react-scripts build",
